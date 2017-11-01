@@ -109,7 +109,7 @@
                         <table class="table table-striped">
                             <thead>
                                 <tr style="color:#F47709">
-                                    <th>#</th>
+                                    <th>N°</th>
                                     <th>Temas</th>
                                     <th>Profesor</th>
                                     <th>Nivel</th>
@@ -146,16 +146,24 @@
                                 <td>Semi-Intermedio</td>
 
 
-                            </tr>   
+                            </tr>  
+                            
                             <tr>
                                 <td>5</td>
+                                <td>Páginas Web en Python</td>
+                                <td>Hugo Calderon</td>
+                                <td>Semi-Intermedio</td>
+
+                            </tr>
+                            <tr>
+                                <td>6</td>
                                 <td>Abrir y Leer archivos en Python </td>
                                 <td>Hugo Calderon</td>
                                 <td>Intermedio</td>
 
                             </tr>
                             <tr>
-                                <td>6</td>
+                                <td>7</td>
                                 <td>Conección a Base de Datos Mysql con Python</td>
                                 <td>Hugo Calderon</td>
                                 <td>Intermedio</td>
@@ -163,19 +171,13 @@
 
                             </tr>
                             <tr>
-                                <td>7</td>
+                                <td>8</td>
                                 <td>AJAX Python</td>
                                 <td>Hugo Calderon</td>
                                 <td>Avanzado</td>
 
                             </tr>
-                            <tr>
-                                <td>8</td>
-                                <td>Páginas Web en Python</td>
-                                <td>Hugo Calderon</td>
-                                <td>Semi-Intermedio</td>
-
-                            </tr>
+                            
                             <tr style="color:#F47709">
                                 <td></td>
                                 <td><b>Tiempo estimado de realización</b></td>

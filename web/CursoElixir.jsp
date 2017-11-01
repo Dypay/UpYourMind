@@ -117,14 +117,14 @@
                             </thead>
                             <tr>
                                 <td>1</td>
-                                <td>Instalación de Python</td>
+                                <td>Instalación de Elixir</td>
                                 <td>Mike Zapata</td>
                                 <td>Basico</td>
 
                             </tr>
                             <tr>
                                 <td>2</td>
-                                <td>Sintaxis de Python</td>
+                                <td>Sintaxis de Elixir</td>
                                 <td>Mike Zapata</td>
                                 <td>Basico</td>
 
@@ -132,7 +132,7 @@
                             </tr>
                             <tr>
                                 <td>3</td>
-                                <td>Arreglos en Python</td>
+                                <td>Arreglos en Elixir</td>
                                 <td>Mike Zapata</td>
                                 <td>Semi-Intermedio</td>
 
@@ -140,7 +140,7 @@
                             </tr>
                             <tr>
                                 <td>4</td>
-                                <td>Formularios en Python</td>
+                                <td>Formularios en Elixir</td>
                                 <td>Mike Zapata</td>
                                 <td>Semi-Intermedio</td>
 
@@ -148,14 +148,14 @@
                             </tr>   
                             <tr>
                                 <td>5</td>
-                                <td>Abrir y Leer archivos en Python </td>
+                                <td>Abrir y Leer archivos en Elixir </td>
                                 <td>Mike Zapata</td>
                                 <td>Intermedio</td>
 
                             </tr>
                             <tr>
                                 <td>6</td>
-                                <td>Conección a Base de Datos Mysql con Python</td>
+                                <td>Conección a Base de Datos Mysql con Elixir</td>
                                 <td>Mike Zapata</td>
                                 <td>Intermedio</td>
 
@@ -163,14 +163,14 @@
                             </tr>
                             <tr>
                                 <td>7</td>
-                                <td>AJAX Python</td>
+                                <td>AJAX Elixir</td>
                                 <td>Mike Zapata</td>
                                 <td>Avanzado</td>
 
                             </tr>
                             <tr>
                                 <td>8</td>
-                                <td>Páginas Web en Python</td>
+                                <td>Páginas Web en Elixir</td>
                                 <td>Mike Zapata</td>
                                 <td>Semi-Intermedio</td>
 

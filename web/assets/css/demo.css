@@ -1,0 +1,106 @@
+@media (min-width: 992px){
+    .typo-line{
+        padding-left: 140px;
+        margin-bottom: 40px;
+        position: relative;
+    }
+
+    .typo-line .category{
+        transform: translateY(-50%);
+        top: 50%;
+        left: 0px;
+        position: absolute;
+    }
+}
+
+.all-icons [class*="pe-"]{
+    font-size: 40px;
+}
+.all-icons input{
+    border: 0;
+}
+.all-icons .font-icon-detail{
+    text-align: center;
+    padding: 45px 0px 30px;
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+    margin: 15px 0;
+}
+.all-icons .font-icon-detail input{
+    margin: 25px auto 0;
+    width: 100%;
+    text-align: center;
+    display: block;
+    color: #aaa;
+    font-size: 13px;
+}
+
+#map{
+    position:relative;
+    width:100%;
+    height: calc(100% - 60px);
+}
+
+.places-buttons .btn{
+    margin-bottom: 30px
+}
+.sidebar .nav > li.active-pro{
+    position: absolute;
+    width: 100%;
+    bottom: 10px;
+}
+.sidebar .nav > li.active-pro a{
+    background: rgba(255, 255, 255, 0.14);
+    opacity: 1;
+    color: #FFFFFF;
+}
+
+.table-upgrade td:nth-child(2),
+.table-upgrade td:nth-child(3){
+    text-align: center;
+}
+* {
+    margin:0;
+    padding:0;
+    font:12pt Arial;
+}
+
+body {
+  background-color:#ffffff;
+}
+
+.field {
+  display:flex;
+  position:realtive;
+  margin:1em auto;
+  width:100%;
+  flex-direction:row;
+  box-shadow:
+   1px 1px 0 rgb(244, 119, 9),
+   2px 2px 0 rgb(244, 119, 9),
+   3px 3px 0 rgb(244, 119, 9),
+   4px 4px 0 rgb(244, 119, 9),
+   5px 5px 0 rgb(244, 119, 9),
+   6px 6px 0 rgb(244, 119, 9),
+   7px 7px 0 rgb(244, 119, 9)
+  ;
+}
+
+.field>input[type=text],
+.field>button {
+  display:block;
+  font:1.2em 'Montserrat Alternates';
+}
+
+.field>input[type=text] {
+  flex:1;
+  padding:0.6em;
+  border:0.2em solid rgb(244, 119, 9);
+}
+
+.field>button {
+  padding:0.6em 0.8em;
+  background-color:rgb(244, 119, 9);
+  color:white;
+  border:none;
+}
