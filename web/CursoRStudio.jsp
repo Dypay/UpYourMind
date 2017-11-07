@@ -17,7 +17,7 @@
         <meta name="author" content="">
         <link rel="icon"  href="img/UYM/Perfil2.png">
 
-        <title>RStudio</title>
+        <title>RStudio - UpYourMind</title>
 
         <!-- Bootstrap core CSS -->
         <link href="dist/css/bootstrap.min.css" rel="stylesheet">
@@ -66,7 +66,7 @@
                        <span class="navbar-toggler-icon"></span>
                     </button> 
                     </div>
-                    <h1 class="page-header" >Rstudio</h1>
+                    <h1 class="page-header" ></h1>
 
                     <div class="row placeholders">
                   
@@ -85,12 +85,11 @@
 
                             <h1><a>RStudio</a></h1>
 
-                            <span class="text-muted" ><p align="justify"> Es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible.
+                            <span class="text-muted" ><p align="justify">RStudio es un entorno de desarrollo integrado (IDE) para R (lenguaje de programación) . Incluye una consola, editor de sintaxis que apoya la ejecución de código, así como herramientas para el trazado, la depuración y la gestión del espacio de trabajo.
 
-                                                                          Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, usa tipado dinámico y es multiplataforma.
+                                                                        RStudio está disponible para Windows, Mac y Linux o para navegadores conectados a RStudio Server o RStudio Server Pro (Debian / Ubuntu, RedHat / CentOS, y SUSE Linux).​
 
-                                                                          Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License,1​ que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores.</p></span>
-                        </div>
+                                                                        RStudio tiene la misión de proporcionar el entorno informático estadístico R. Permite un análisis y desarrollo para que cualquiera pueda analizar los datos con R.                         </div>
 
                     </div>
 
@@ -118,45 +117,45 @@
                             <tr>
                                 <td>1</td>
                                 <td>Instalación de Rstudio</td>
-                                <td>Mike Zapata</td>
-                                <td>Basico</td>
+                                <td>Carlos Vives</td>
+                                <td>Básico</td>
 
                             </tr>
                             <tr>
                                 <td>2</td>
                                 <td>Sintaxis de Rstudio</td>
-                                <td>Mike Zapata</td>
-                                <td>Basico</td>
+                                <td>Carlos Vives</td>
+                                <td>Básico</td>
 
 
                             </tr>
                             <tr>
                                 <td>3</td>
                                 <td>Arreglos en Rstudio</td>
-                                <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Carlos Vives</td>
+                                <td>Básico</td>
 
 
                             </tr>
                             <tr>
                                 <td>4</td>
                                 <td>Formularios en Rstudio</td>
-                                <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Carlos Vives</td>
+                                <td>Intermedio</td>
 
 
                             </tr>   
                             <tr>
                                 <td>5</td>
                                 <td>Abrir y Leer archivos en Rstudio </td>
-                                <td>Mike Zapata</td>
+                                <td>Carlos Vives</td>
                                 <td>Intermedio</td>
 
                             </tr>
                             <tr>
                                 <td>6</td>
                                 <td>Conección a Base de Datos Mysql con Rstudio</td>
-                                <td>Mike Zapata</td>
+                                <td>Carlos Vives</td>
                                 <td>Intermedio</td>
 
 
@@ -164,22 +163,22 @@
                             <tr>
                                 <td>7</td>
                                 <td>AJAX Rstudio</td>
-                                <td>Mike Zapata</td>
+                                <td>Carlos Vives</td>
                                 <td>Avanzado</td>
 
                             </tr>
                             <tr>
                                 <td>8</td>
                                 <td>Páginas Web en Rstudio</td>
-                                <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Carlos Vives</td>
+                                <td>Avanzado</td>
 
                             </tr>
                             
                             <tr style="color:#F47709">
                                 <td></td>
                                 <td><b>Tiempo estimado de realización</b></td>
-                                <td><b> 2 meses</b> </td>
+                                <td><b> 4 meses</b> </td>
                                 <td></td>
 
                             </tr>
@@ -187,7 +186,7 @@
                              <tr >
                                 <td></td>
                                 <td><b>Precio del Curso</b></td>
-                                <td><b>S/. 300</b> </td>
+                                <td><b>S/. 400</b> </td>
                                 <td></td>
 
                             </tr>

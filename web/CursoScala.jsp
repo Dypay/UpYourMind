@@ -16,7 +16,7 @@
         <meta name="author" content="">
         <link rel="icon"  href="img/UYM/Perfil2.png">
 
-        <title>RStudio</title>
+        <title>Scala - UpYourMind</title>
 
         <!-- Bootstrap core CSS -->
         <link href="dist/css/bootstrap.min.css" rel="stylesheet">
@@ -65,7 +65,7 @@
                        <span class="navbar-toggler-icon"></span>
                     </button> 
                     </div>
-                    <h1 class="page-header" >Scala</h1>
+                    <h1 class="page-header" ></h1>
 
                     <div class="row placeholders">
                   
@@ -84,11 +84,7 @@
 
                             <h1><a>Scala</a></h1>
 
-                            <span class="text-muted" ><p align="justify"> Es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible.
-
-                                                                          Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, usa tipado dinámico y es multiplataforma.
-
-                                                                          Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License,1​ que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores.</p></span>
+                            <span class="text-muted" ><p align="justify"> Scala es un lenguaje de programación multi-paradigma diseñado para expresar patrones comunes de programación en forma concisa, elegante y con tipos seguros. Integra sutilmente características de lenguajes funcionales y orientados a objetos. La implementación actual corre en la máquina virtual de Java y es compatible con las aplicaciones Java existentes.</p></span>
                         </div>
 
                     </div>
@@ -118,14 +114,14 @@
                                 <td>1</td>
                                 <td>Instalación de Scala</td>
                                 <td>Mike Zapata</td>
-                                <td>Basico</td>
+                                <td>Básico</td>
 
                             </tr>
                             <tr>
                                 <td>2</td>
                                 <td>Sintaxis de Scala</td>
                                 <td>Mike Zapata</td>
-                                <td>Basico</td>
+                                <td>Básico</td>
 
 
                             </tr>
@@ -133,7 +129,7 @@
                                 <td>3</td>
                                 <td>Arreglos en Scala</td>
                                 <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Intermedio</td>
 
 
                             </tr>
@@ -141,7 +137,7 @@
                                 <td>4</td>
                                 <td>Formularios en Scala</td>
                                 <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Intermedio</td>
 
 
                             </tr>   
@@ -171,14 +167,14 @@
                                 <td>8</td>
                                 <td>Páginas Web en Scala</td>
                                 <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Avanzado</td>
 
                             </tr>
                             
                             <tr style="color:#F47709">
                                 <td></td>
                                 <td><b>Tiempo estimado de realización</b></td>
-                                <td><b> 2 meses</b> </td>
+                                <td><b> 3 meses</b> </td>
                                 <td></td>
 
                             </tr>
@@ -186,7 +182,7 @@
                              <tr >
                                 <td></td>
                                 <td><b>Precio del Curso</b></td>
-                                <td><b>S/. 300</b> </td>
+                                <td><b>S/. 500</b> </td>
                                 <td></td>
 
                             </tr>

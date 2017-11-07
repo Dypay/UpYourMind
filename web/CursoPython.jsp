@@ -18,7 +18,7 @@
         <meta name="author" content="">
         <link rel="icon"  href="img/UYM/Perfil2.png">
 
-        <title>Python</title>
+        <title>Python - UpYourMind</title>
 
         <!-- Bootstrap core CSS -->
         <link href="dist/css/bootstrap.min.css" rel="stylesheet">
@@ -67,7 +67,7 @@
                        <span class="navbar-toggler-icon"></span>
                     </button> 
                     </div>
-                    <h1 class="page-header" >Python</h1>
+                    <h1 class="page-header" ></h1>
 
                     <div class="row placeholders">
                   
@@ -120,14 +120,14 @@
                                 <td>1</td>
                                 <td>Instalación de Python</td>
                                 <td>Hugo Calderon</td>
-                                <td>Basico</td>
+                                <td>Básico</td>
 
                             </tr>
                             <tr>
                                 <td>2</td>
                                 <td>Sintaxis de Python</td>
                                 <td>Hugo Calderon</td>
-                                <td>Basico</td>
+                                <td>Básico</td>
 
 
                             </tr>
@@ -135,7 +135,7 @@
                                 <td>3</td>
                                 <td>Arreglos en Python</td>
                                 <td>Hugo Calderon</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Intermedio</td>
 
 
                             </tr>
@@ -143,7 +143,7 @@
                                 <td>4</td>
                                 <td>Formularios en Python</td>
                                 <td>Hugo Calderon</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Intermedio</td>
 
 
                             </tr>  
@@ -152,7 +152,7 @@
                                 <td>5</td>
                                 <td>Páginas Web en Python</td>
                                 <td>Hugo Calderon</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Intermedio</td>
 
                             </tr>
                             <tr>
@@ -166,7 +166,7 @@
                                 <td>7</td>
                                 <td>Conección a Base de Datos Mysql con Python</td>
                                 <td>Hugo Calderon</td>
-                                <td>Intermedio</td>
+                                <td>Avanzado</td>
 
 
                             </tr>

@@ -232,6 +232,28 @@
     <!-- Custom scripts for this template -->
     <script src="js/creative.min.js"></script>
 
-  </body>
+ 
+        <hi id="bigOne"></hi>
+        <script src="https://www.gstatic.com/firebasejs/4.6.0/firebase.js"></script>
+        <script>
+          // Initialize Firebase
+          var config = {
+            apiKey: "AIzaSyAsdAo6u2XGmRl_xYxKPdpFKkvMzzasweo",
+            authDomain: "upyourmind-eb7b8.firebaseapp.com",
+            databaseURL: "https://upyourmind-eb7b8.firebaseio.com",
+            projectId: "upyourmind-eb7b8",
+            storageBucket: "",
+            messagingSenderId: "576338334132"
+          };
+          firebase.initializeApp(config);
+          var bigOne = document.getElementById('bigOne');
+          var debRef = firebase.database().ref().child('text');
+          dbRef.on('value',snap => bigOne.innerText = snap.val());
+        
+        
+        </script>
+        
+        
 
+    </body>
 </html>

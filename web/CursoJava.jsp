@@ -18,7 +18,7 @@
         <meta name="author" content="">
         <link rel="icon"  href="img/UYM/Perfil2.png">
 
-        <title>Java</title>
+        <title>Java - UpYourMind</title>
 
         <!-- Bootstrap core CSS -->
         <link href="dist/css/bootstrap.min.css" rel="stylesheet">
@@ -67,7 +67,7 @@
                        <span class="navbar-toggler-icon"></span>
                     </button> 
                     </div>
-                    <h1 class="page-header" >Java</h1>
+                    <h1 class="page-header" ></h1>
 
                     <div class="row placeholders">
                   
@@ -86,12 +86,7 @@
 
                             <h1><a>Java</a></h1>
 
-                            <span class="text-muted" ><p align="justify"> Es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible.
-
-                                                                          Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, usa tipado dinámico y es multiplataforma.
-
-                                                                          Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License,1​ que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores.</p></span>
-                        </div>
+                            <span class="text-muted" ><p align="justify">Java es un lenguaje de programación de propósito general, concurrente, orientado a objetos que fue diseñado específicamente para tener tan pocas dependencias de implementación como fuera posible. Su intención es permitir que los desarrolladores de aplicaciones escriban el programa una vez y lo ejecuten en cualquier dispositivo (conocido en inglés como WORA, o "write once, run anywhere"), lo que quiere decir que el código que es ejecutado en una plataforma no tiene que ser recompilado para correr en otra. Java es, a partir de 2012, uno de los lenguajes de programación más populares en uso, particularmente para aplicaciones de cliente-servidor de web, con unos 10 millones de usuarios reportados.                        </div>
 
                     </div>
 
@@ -119,45 +114,45 @@
                             <tr>
                                 <td>1</td>
                                 <td>Instalación de Java</td>
-                                <td>Mike Zapata</td>
-                                <td>Basico</td>
+                                <td>Hugo Wullon</td>
+                                <td>Básico</td>
 
                             </tr>
                             <tr>
                                 <td>2</td>
                                 <td>Sintaxis de Java</td>
-                                <td>Mike Zapata</td>
-                                <td>Basico</td>
+                                <td>Hugo Wullon</td>
+                                <td>Básico</td>
 
 
                             </tr>
                             <tr>
                                 <td>3</td>
                                 <td>Arreglos en Java</td>
-                                <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Hugo Wullon</td>
+                                <td>Intermedio</td>
 
 
                             </tr>
                             <tr>
                                 <td>4</td>
                                 <td>Formularios en Java</td>
-                                <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Hugo Wullon</td>
+                                <td>Intermedio</td>
 
 
                             </tr>   
                             <tr>
                                 <td>5</td>
                                 <td>Abrir y Leer archivos en Java</td>
-                                <td>Mike Zapata</td>
+                                <td>Hugo Wullon</td>
                                 <td>Intermedio</td>
 
                             </tr>
                             <tr>
                                 <td>6</td>
                                 <td>Conección a Base de Datos Mysql con Java</td>
-                                <td>Mike Zapata</td>
+                                <td>Hugo Wullon</td>
                                 <td>Intermedio</td>
 
 
@@ -165,22 +160,22 @@
                             <tr>
                                 <td>7</td>
                                 <td>AJAX Java</td>
-                                <td>Mike Zapata</td>
+                                <td>Hugo Wullon</td>
                                 <td>Avanzado</td>
 
                             </tr>
                             <tr>
                                 <td>8</td>
                                 <td>Páginas Web en Java</td>
-                                <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Hugo Wullon</td>
+                                <td>Avanzado</td>
 
                             </tr>
                             
                             <tr style="color:#F47709">
                                 <td></td>
                                 <td><b>Tiempo estimado de realización</b></td>
-                                <td><b> 2 meses</b> </td>
+                                <td><b> 4 meses</b> </td>
                                 <td></td>
 
                             </tr>
@@ -188,7 +183,7 @@
                              <tr >
                                 <td></td>
                                 <td><b>Precio del Curso</b></td>
-                                <td><b>S/. 300</b> </td>
+                                <td><b>S/. 500</b> </td>
                                 <td></td>
 
                             </tr>

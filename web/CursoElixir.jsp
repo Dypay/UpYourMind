@@ -17,7 +17,7 @@
         <meta name="author" content="">
         <link rel="icon"  href="img/UYM/Perfil2.png">
 
-        <title>Java</title>
+        <title>Java - UpYourMind</title>
 
         <!-- Bootstrap core CSS -->
         <link href="dist/css/bootstrap.min.css" rel="stylesheet">
@@ -66,7 +66,7 @@
                        <span class="navbar-toggler-icon"></span>
                     </button> 
                     </div>
-                    <h1 class="page-header" >Elixir</h1>
+                    <h1 class="page-header" ></h1>
 
                     <div class="row placeholders">
                   
@@ -85,12 +85,7 @@
 
                             <h1><a>Elixir</a></h1>
 
-                            <span class="text-muted" ><p align="justify"> Es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible.
-
-                                                                          Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, usa tipado dinámico y es multiplataforma.
-
-                                                                          Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License,1​ que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores.</p></span>
-                        </div>
+                            <span class="text-muted" ><p align="justify"> Elixir es un lenguaje de programación funcional, concurrente, de propósito general que se ejecuta sobre la máquina virtual de Erlang (BEAM). Elixir está escrito sobre Erlang y comparte las mismas abstracciones para desarrollar aplicaciones distribuidas y tolerantes a fallos. Elixir también proporciona un diseño extensible con herramientas productivas. Incluye soporte para metaprogramación en tiempo de compilación con macros y polimorfismo mediante protocolos.                        </div>
 
                     </div>
 
@@ -118,45 +113,45 @@
                             <tr>
                                 <td>1</td>
                                 <td>Instalación de Elixir</td>
-                                <td>Mike Zapata</td>
-                                <td>Basico</td>
+                                <td>Lucas Marin</td>
+                                <td>Básico</td>
 
                             </tr>
                             <tr>
                                 <td>2</td>
                                 <td>Sintaxis de Elixir</td>
-                                <td>Mike Zapata</td>
-                                <td>Basico</td>
+                                <td>Lucas Marin</td>
+                                <td>Básico</td>
 
 
                             </tr>
                             <tr>
                                 <td>3</td>
                                 <td>Arreglos en Elixir</td>
-                                <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Lucas Marin</td>
+                                <td>Básico</td>
 
 
                             </tr>
                             <tr>
                                 <td>4</td>
                                 <td>Formularios en Elixir</td>
-                                <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Lucas Marin</td>
+                                <td>Intermedio</td>
 
 
                             </tr>   
                             <tr>
                                 <td>5</td>
                                 <td>Abrir y Leer archivos en Elixir </td>
-                                <td>Mike Zapata</td>
+                                <td>Lucas Marin</td>
                                 <td>Intermedio</td>
 
                             </tr>
                             <tr>
                                 <td>6</td>
                                 <td>Conección a Base de Datos Mysql con Elixir</td>
-                                <td>Mike Zapata</td>
+                                <td>Lucas Marin</td>
                                 <td>Intermedio</td>
 
 
@@ -164,15 +159,15 @@
                             <tr>
                                 <td>7</td>
                                 <td>AJAX Elixir</td>
-                                <td>Mike Zapata</td>
+                                <td>Lucas Marin</td>
                                 <td>Avanzado</td>
 
                             </tr>
                             <tr>
                                 <td>8</td>
                                 <td>Páginas Web en Elixir</td>
-                                <td>Mike Zapata</td>
-                                <td>Semi-Intermedio</td>
+                                <td>Lucas Marin</td>
+                                <td>Avanzado</td>
 
                             </tr>
                             
@@ -186,7 +181,7 @@
                              <tr >
                                 <td></td>
                                 <td><b>Precio del Curso</b></td>
-                                <td><b>S/. 300</b> </td>
+                                <td><b>S/. 450</b> </td>
                                 <td></td>
 
                             </tr>
