@@ -114,14 +114,14 @@
                             <tr>
                                 <td>1</td>
                                 <td>Instalación de Java</td>
-                                <td>Hugo Wullon</td>
+                                <td>Hugo Bullon</td>
                                 <td>Básico</td>
 
                             </tr>
                             <tr>
                                 <td>2</td>
                                 <td>Sintaxis de Java</td>
-                                <td>Hugo Wullon</td>
+                                <td>Hugo Bullon</td>
                                 <td>Básico</td>
 
 
@@ -129,7 +129,7 @@
                             <tr>
                                 <td>3</td>
                                 <td>Arreglos en Java</td>
-                                <td>Hugo Wullon</td>
+                                <td>Hugo Bullon</td>
                                 <td>Intermedio</td>
 
 
@@ -137,7 +137,7 @@
                             <tr>
                                 <td>4</td>
                                 <td>Formularios en Java</td>
-                                <td>Hugo Wullon</td>
+                                <td>Hugo Bullon</td>
                                 <td>Intermedio</td>
 
 
@@ -145,14 +145,14 @@
                             <tr>
                                 <td>5</td>
                                 <td>Abrir y Leer archivos en Java</td>
-                                <td>Hugo Wullon</td>
+                                <td>Hugo Bullon</td>
                                 <td>Intermedio</td>
 
                             </tr>
                             <tr>
                                 <td>6</td>
                                 <td>Conección a Base de Datos Mysql con Java</td>
-                                <td>Hugo Wullon</td>
+                                <td>Hugo Bullon</td>
                                 <td>Intermedio</td>
 
 
@@ -160,14 +160,14 @@
                             <tr>
                                 <td>7</td>
                                 <td>AJAX Java</td>
-                                <td>Hugo Wullon</td>
+                                <td>Hugo Bullon</td>
                                 <td>Avanzado</td>
 
                             </tr>
                             <tr>
                                 <td>8</td>
                                 <td>Páginas Web en Java</td>
-                                <td>Hugo Wullon</td>
+                                <td>Hugo Bullon</td>
                                 <td>Avanzado</td>
 
                             </tr>
