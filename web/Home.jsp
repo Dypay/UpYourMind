@@ -70,19 +70,19 @@ and open the template in the editor.
 
             <ul class="nav">
                 <li class="active">
-                    <a href="Home.html">
+                    <a href="Home.jsp">
                         <i class="pe-7s-graph"></i>
                         <p>Home</p>
                     </a>
                 </li>
                 <li>
-                    <a href="Perfil.html">
+                    <a href="Perfil.jsp">
                         <i class="pe-7s-user"></i>
                         <p>Perfil</p>
                     </a>
                 </li>
                 <li>
-                    <a href="Curso.html">
+                    <a href="Curso.jsp">
                         <i class="pe-7s-note2"></i>
                         <p>Cursos</p>
                     </a>
@@ -123,7 +123,7 @@ and open the template in the editor.
 					</p>
                               </a>
                               <ul class="dropdown-menu">
-                                <li><a href="#">ActualizaciÃ³n de sÃ­labus - Python</a></li>
+                                <li><a href="#">Actualización de sílabus - Python</a></li>
                                 <li><a href="#">Aviso de Mantenimiento</a></li>
                                 <li><a href="#">Certificado</a></li>
                                 
@@ -141,7 +141,7 @@ and open the template in the editor.
                        
                         <li>
                             <a href="index.html">
-                                <p>Cerrar SesiÃ³n</p>
+                                <p>Cerrar Sesión</p>
                             </a>
                         </li>
 			    <li class="separator hidden-lg hidden-md"></li>
@@ -159,8 +159,8 @@ and open the template in the editor.
                             <div class="col-md-13">
                                 <div class="card">
                                     <div class="header">
-                                     <h4 class="title">Curso mÃ¡s perdido en la plataforma</h4>
-                                     <p class="category">No esperes mÃ¡s y matriculate en alguno de estos cursos!</p>
+                                     <h4 class="title">Curso más perdido en la plataforma</h4>
+                                     <p class="category">No esperes más y matriculate en alguno de estos cursos!</p>
                                     </div>
                                     <div class="content">
                                 
@@ -214,7 +214,7 @@ and open the template in the editor.
                         <div class="card">
                             <div class="header">
                                 <h4 class="title">Y el lenguaje del momento es....!</h4>
-                                <p class="category">Este es el lenguaje mÃ¡s requerido por las empresas</p>
+                                <p class="category">Este es el lenguaje más requerido por las empresas</p>
                             </div>
                             <div class="content">
                                 <div id="chartPreferences" class="ct-chart ct-perfect-fourth"></div>
@@ -226,7 +226,7 @@ and open the template in the editor.
                                         <i class="fa fa-circle text-warning"></i> <a href="#">Python</a>
                                     </div>
                                     <br>
-                                    <div><a href="cursosMatricular.jsp">Ver mÃ¡s Cursos</a></div>
+                                    <div><a href="cursosMatricular.jsp">Ver más Cursos</a></div>
                                     <br>
                                     <div class="stats">
                                         <i class="fa fa-clock-o"></i>Actualizado hace 2 horas
@@ -254,7 +254,7 @@ and open the template in the editor.
                                                         <input type="checkbox" value="" data-toggle="checkbox" checked="">
                                                     </label>
                                                 </td>
-                                                <td>DiseÃ±ar una pagina web en Python</td>
+                                                <td>Diseñar una pagina web en Python</td>
                                                 <td class="td-actions text-right">
                                                     <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
                                                         <i class="fa fa-edit"></i>
@@ -286,7 +286,7 @@ and open the template in the editor.
                                                         <input type="checkbox" value="" data-toggle="checkbox" checked="">
                                                     </label>
                                                 </td>
-                                                <td>Crear un nuevo lenguaje de programaciÃ³n</td>
+                                                <td>Crear un nuevo lenguaje de programación</td>
                                                 <td class="td-actions text-right">
                                                     <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
                                                         <i class="fa fa-edit"></i>
@@ -386,7 +386,7 @@ and open the template in the editor.
 
         	$.notify({
             	icon: 'pe-7s-gift',
-            	message: "Bienvenido de vuelta a <b>UpYourMind</b> - donde la programaciÃ³n es nuestra pasion."
+            	message: "Bienvenido de vuelta a <b>UpYourMind</b> - donde la programación es nuestra pasion."
 
             },{
                 type: 'info',

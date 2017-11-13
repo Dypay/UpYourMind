@@ -70,19 +70,19 @@ and open the template in the editor.
 
             <ul class="nav">
                 <li>
-                    <a href="Home.html">
+                    <a href="Home.jsp">
                         <i class="pe-7s-graph"></i>
                         <p>Home</p>
                     </a>
                 </li>
                 <li>
-                    <a href="Perfil.html">
+                    <a href="Perfil.jsp">
                         <i class="pe-7s-user"></i>
                         <p>Perfil</p>
                     </a>
                 </li>
                 <li class="active">
-                    <a href="Curso.html">
+                    <a href="Curso.jsp">
                         <i class="pe-7s-note2"></i>
                         <p>Cursos</p>
                     </a>
@@ -127,7 +127,7 @@ and open the template in the editor.
                               </a>
                               
                               <ul class="dropdown-menu">
-                                <li><a href="#">ActualizaciÃ³n de sÃ­labus - Python</a></li>
+                                <li><a href="#">Actualización de sílabus - Python</a></li>
                                 <li><a href="#">Aviso de Mantenimiento</a></li>
                                 <li><a href="#">Certificado</a></li>
                                 
@@ -146,7 +146,7 @@ and open the template in the editor.
                        
                         <li>
                             <a href="index.html">
-                                <p>Cerrar SesiÃ³n</p>
+                                <p>Cerrar Sesión</p>
                             </a>
                         </li>
 			    <li class="separator hidden-lg hidden-md"></li>
@@ -169,7 +169,7 @@ and open the template in the editor.
                             <div class="content table-responsive table-full-width">
                                 <table class="table table-hover table-striped">
                                     <thead>
-                                        <th>NÂ°</th>
+                                        <th>N°</th>
                                     	<th>Tema</th>
                                     	<th>Profesor</th>
                                     	<th>Estado</th>
@@ -178,7 +178,7 @@ and open the template in the editor.
                                     <tbody>
                                         <tr>
                                             <td>1</td>
-                                            <td>InstalaciÃ³n de Python</td>
+                                            <td>Instalación de Python</td>
                                             <td>Hugo Calderon</td>
                                             <td>FINALIZADO</td>
                                             <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
@@ -214,7 +214,7 @@ and open the template in the editor.
 
                                         <tr>
                                             <td>5</td>
-                                            <td>PÃ¡ginas Web en Python</td>
+                                            <td>Páginas Web en Python</td>
                                             <td>Hugo Calderon</td>
                                             <td>PENDIENTE</td>
                                             <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
@@ -230,7 +230,7 @@ and open the template in the editor.
                                         </tr>
                                         <tr>
                                             <td>7</td>
-                                            <td>ConecciÃ³n a Base de Datos Mysql con Python</td>
+                                            <td>Conección a Base de Datos Mysql con Python</td>
                                             <td>Hugo Calderon</td>
                                             <td>PENDIENTE</td>
                                             <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
@@ -245,6 +245,96 @@ and open the template in the editor.
                                             <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
 
                                         </tr>
+                                    </tbody>
+                                </table>
+
+                            </div>
+                        </div>
+                        <div class="card">
+                            
+                            <div class="header">
+                                <img src="img/UYM/LogosCursos/elixirlogo.png" alt="Lights" style="width:8%" align="left">
+                                <h4 class="title">Elixir</h4>
+                                <p class="category">Tabla de contenido del curso</p>
+                            </div>
+                            <div class="content table-responsive table-full-width">
+                                <table class="table table-hover table-striped">
+                                    <thead>
+                                        <th>N°</th>
+                                    	<th>Tema</th>
+                                    	<th>Profesor</th>
+                                    	<th>Estado</th>
+                                    	<th>Ingresar</th>
+                                    </thead>
+                                    <tbody>
+                                       <tr>
+                                <td>1</td>
+                                <td>Instalación de Elixir</td>
+                                <td>Lucas Marin</td>
+                                <td>FINALIZADO</td>
+                                <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="ElixirInstalacion.jsp">Ingresar</a></td>
+
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Sintaxis de Elixir</td>
+                                <td>Lucas Marin</td>
+                                <td>FINALIZADO</td>
+                                <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="ElixirInstalacion.jsp">Ingresar</a></td>
+
+
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Arreglos en Elixir</td>
+                                <td>Lucas Marin</td>
+                                <td>PENDIENTE</td>
+                                <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="ElixirInstalacion.jsp">Ingresar</a></td>
+
+
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Formularios en Elixir</td>
+                                <td>Lucas Marin</td>
+                                <td>PENDIENTE</td>
+                                <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="ElixirInstalacion.jsp">Ingresar</a></td>
+
+
+                            </tr>   
+                            <tr>
+                                <td>5</td>
+                                <td>Abrir y Leer archivos en Elixir </td>
+                                <td>Lucas Marin</td>
+                                <td>PENDIENTE</td>
+                                <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="ElixirInstalacion.jsp">Ingresar</a></td>
+
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>Conección a Base de Datos Mysql con Elixir</td>
+                                <td>Lucas Marin</td>
+                                <td>PENDIENTE</td>
+                                <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="ElixirInstalacion.jsp">Ingresar</a></td>
+
+
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>AJAX Elixir</td>
+                                <td>Lucas Marin</td>
+                                <td>PENDIENTE</td>
+                                <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="ElixirInstalacion.jsp">Ingresar</a></td>
+
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>Páginas Web en Elixir</td>
+                                <td>Lucas Marin</td>
+                                <td>PENDIENTE</td>
+                                <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="ElixirInstalacion.jsp">Ingresar</a></td>
+
+                            </tr>
                                     </tbody>
                                 </table>
 

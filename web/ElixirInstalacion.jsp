@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -70,19 +64,19 @@ and open the template in the editor.
 
             <ul class="nav">
                 <li>
-                    <a href="Home.html">
+                    <a href="Home.jsp">
                         <i class="pe-7s-graph"></i>
                         <p>Home</p>
                     </a>
                 </li>
                 <li>
-                    <a href="Perfil.html">
+                    <a href="Perfil.jsp">
                         <i class="pe-7s-user"></i>
                         <p>Perfil</p>
                     </a>
                 </li>
                 <li class="active">
-                    <a href="Curso.html">
+                    <a href="Curso.jsp">
                         <i class="pe-7s-note2"></i>
                         <p>Cursos</p>
                     </a>
@@ -127,7 +121,7 @@ and open the template in the editor.
                               </a>
                               
                               <ul class="dropdown-menu">
-                                <li><a href="#">ActualizaciÃ³n de sÃ­labus - Python</a></li>
+                                <li><a href="#">Actualización de sílabus - Python</a></li>
                                 <li><a href="#">Aviso de Mantenimiento</a></li>
                                 <li><a href="#">Certificado</a></li>
                                 
@@ -146,7 +140,7 @@ and open the template in the editor.
                        
                         <li>
                             <a href="index.html">
-                                <p>Cerrar SesiÃ³n</p>
+                                <p>Cerrar Sesión</p>
                             </a>
                         </li>
 			    <li class="separator hidden-lg hidden-md"></li>
@@ -162,92 +156,54 @@ and open the template in the editor.
                         <div class="card">
                             
                             <div class="header">
-                                <img src="img/UYM/LogosCursos/pythonlogo.png" alt="Lights" style="width:8%" align="left">
-                                <h4 class="title">Python</h4>
+                                <img src="img/UYM/LogosCursos/elixirlogo.png" alt="Lights" style="width:8%" align="left">
+                                <h4 class="title">Elixir</h4>
                                 <p class="category">Tabla de contenido del curso</p>
                             </div>
                             <div class="content table-responsive table-full-width">
                                 <table class="table table-hover table-striped">
                                     <thead>
-                                        <th>NÂ°</th>
+                                        <th>N°</th>
                                     	<th>Tema</th>
-                                    	<th>Profesor</th>
-                                    	<th>Estado</th>
-                                    	<th>Ingresar</th>
+                                        <th>Evaluacion</th>
+                                        <th>Registro de Evaluacion</th>
+                                        <th></th>
+                                    	
                                     </thead>
                                     <tbody>
                                         <tr>
                                             <td>1</td>
-                                            <td>InstalaciÃ³n de Python</td>
-                                            <td>Hugo Calderon</td>
-                                            <td>FINALIZADO</td>
-                                            <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
+                                            <td><a href="https://www.youtube.com/watch?v=3SGgoR2PamA" target="_blank">Instalación de Elixir ( video )</a></td>
+                                           
+                                            <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="#">Ingresar</a></td>
+                                            <td> Aprobado ( 9/10 )  </td>
+                                            <td></td>
 
                                         </tr>
                                         <tr>
                                             <td>2</td>
-                                            <td>Sintaxis de Python</td>
-                                            <td>Hugo Calderon</td>
-                                            <td>FINALIZADO</td>
-                                            <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
+                                            <td><a href="https://elixirschool.com/es/lessons/basics/basics/#instalar-elixir" target="_blank">Instalación de Elixir ( documentación )</a></td>
+                                            
+                                            <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="#">Ingresar</a></td>
+                                            
+                                             <td> Aprobado ( 10/10 )  </td>
+                                    <td></td>
 
 
                                         </tr>
+                                       
                                         <tr>
-                                            <td>3</td>
-                                            <td>Arreglos en Python</td>
-                                            <td>Hugo Calderon</td>
-                                            <td>FINALIZADO</td>
-                                            <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
-
-
-                                        </tr>
-                                        <tr>
-                                            <td>4</td>
-                                            <td>Formularios en Python</td>
-                                            <td>Hugo Calderon</td>
-                                            <td>PENDIENTE</td>
-                                            <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
-
-
-                                        </tr>  
-
-                                        <tr>
-                                            <td>5</td>
-                                            <td>PÃ¡ginas Web en Python</td>
-                                            <td>Hugo Calderon</td>
-                                            <td>PENDIENTE</td>
-                                            <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
-
-                                        </tr>
-                                        <tr>
-                                            <td>6</td>
-                                            <td>Abrir y Leer archivos en Python </td>
-                                            <td>Hugo Calderon</td>
-                                            <td>PENDIENTE</td>
-                                            <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
-
-                                        </tr>
-                                        <tr>
-                                            <td>7</td>
-                                            <td>ConecciÃ³n a Base de Datos Mysql con Python</td>
-                                            <td>Hugo Calderon</td>
-                                            <td>PENDIENTE</td>
-                                            <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
-
-
-                                        </tr>
-                                        <tr>
-                                            <td>8</td>
-                                            <td>AJAX Python</td>
-                                            <td>Hugo Calderon</td>
-                                            <td>PENDIENTE</td>
-                                            <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="pythonInstalacion.jsp">Ingresar</a></td>
-
-                                        </tr>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td><a class="btn btn-primary btn-xl js-scroll-trigger" href="Curso.jsp" >Regresar</a></td>
+                                        </tr>    
                                     </tbody>
+                                    
                                 </table>
-
+                                
+                                
                             </div>
                         </div>
                     </div>
@@ -295,4 +251,5 @@ and open the template in the editor.
 	<script src="assets/js/demo.js"></script>
 
 </html>
+
 
